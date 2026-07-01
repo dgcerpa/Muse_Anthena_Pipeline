@@ -1,4 +1,4 @@
-# Muse_EEG
+# Muse Anthena S - Processing Pipeline
 
 Preprocessing and spectral-analysis pipeline for 4-channel EEG recorded with the MUSE Athena S headband, built on EEGLAB (MATLAB) and R.
 
